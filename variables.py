@@ -16,8 +16,6 @@ print(Language,"is a web programing language")
 
 
 
-number = 45
-numb = 100
-numberr = 145
+
 
 print("The sum of",Num1,"and", Num2, "is" ,Num1 * Num2)

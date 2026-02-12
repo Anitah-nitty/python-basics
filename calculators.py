@@ -1,6 +1,6 @@
-number = float(input("Enter first Number :"))
-operator = input("enter operator")
-num = float(input("Enter second Number :"))
+number = int(input("Enter first Number :"))
+operator = input("enter operator (+ , - , * , /)")
+num = int(input("Enter second Number :"))
 
 if operator== "+":
     print("Answer :",number + num)
